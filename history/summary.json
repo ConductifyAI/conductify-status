@@ -4,18 +4,20 @@
     "url": "https://studio.conductify.ai",
     "icon": "https://icons.duckduckgo.com/ip3/studio.conductify.ai.ico",
     "slug": "conductify-studio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 897,
-    "timeDay": 946,
-    "timeWeek": 897,
-    "timeMonth": 897,
-    "timeYear": 897,
-    "dailyMinutesDown": {}
+    "time": 997,
+    "timeDay": 1320,
+    "timeWeek": 997,
+    "timeMonth": 997,
+    "timeYear": 997,
+    "dailyMinutesDown": {
+      "2024-08-02": 0
+    }
   },
   {
     "name": "Conductify Website",
