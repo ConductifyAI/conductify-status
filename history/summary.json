@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/studio.conductify.ai.ico",
     "slug": "conductify-studio",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 933,
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 923,
     "timeDay": 794,
-    "timeWeek": 933,
-    "timeMonth": 933,
-    "timeYear": 933,
+    "timeWeek": 941,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2024-08-02": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1936,
-    "timeDay": 1699,
-    "timeWeek": 1936,
-    "timeMonth": 1936,
-    "timeYear": 1936,
+    "time": 1924,
+    "timeDay": 1795,
+    "timeWeek": 1921,
+    "timeMonth": 1924,
+    "timeYear": 1924,
     "dailyMinutesDown": {}
   }
 ]
