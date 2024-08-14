@@ -24,7 +24,7 @@
     "url": "https://conductify.ai",
     "icon": "https://icons.duckduckgo.com/ip3/conductify.ai.ico",
     "slug": "conductify-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1880,
     "timeMonth": 1908,
     "timeYear": 1908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 0
+    }
   }
 ]
