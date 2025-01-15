@@ -1,6 +1,6 @@
 # [📈 Live Status](https://travisnguyen20.github.io/conductify_uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Travis Nguyen](https://travisnguyen.me), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Conductify AI](https://conductify.ai), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/travisnguyen20/conductify_uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/travisnguyen20/conductify_uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/travisnguyen20/conductify_uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/travisnguyen20/conductify_uptime/actions?query=workflow%3A%22Response+Time+CI%22)

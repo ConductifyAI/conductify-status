@@ -4,6 +4,9 @@ repo: conductify-status # The name of this repository
 
 runner: "[self-hosted]"
 
+assignees:
+  - travisnguyen20
+
 sites:
   - name: Conductify Studio
     url: https://studio.conductify.ai
@@ -14,7 +17,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /conductify-status
+  # baseUrl: /conductify-status
+  cname: status.conductify.ai
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Conductify Status Page
   introTitle: Conductify A I Agents, We are new Workforce and Humanity Co Worker
