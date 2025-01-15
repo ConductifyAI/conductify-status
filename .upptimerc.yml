@@ -2,6 +2,8 @@
 owner: ConductifyAI # Your GitHub organization or username, where this repository lives
 repo: conductify-status # The name of this repository
 
+runner: "[self-hosted]"
+
 sites:
   - name: Conductify Studio
     url: https://studio.conductify.ai
