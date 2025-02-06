@@ -10,8 +10,9 @@ assignees:
 sites:
   - name: Conductify Studio
     url: https://studio.conductify.ai
-  - name: Conductify Website
-    url: https://conductify.ai  
+  - name: Conductify Studio API
+    url: https://api.conductify.ai/health/liveness
+    __dangerous__body_down_if_text_missing: '"status":"ok"'  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
