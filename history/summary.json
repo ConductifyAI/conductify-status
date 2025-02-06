@@ -33,19 +33,19 @@
     "url": "https://api.conductify.ai/health/liveness",
     "icon": "https://icons.duckduckgo.com/ip3/api.conductify.ai.ico",
     "slug": "conductify-studio-api",
-    "status": "down",
-    "uptime": "1.69%",
-    "uptimeDay": "1.69%",
-    "uptimeWeek": "1.69%",
-    "uptimeMonth": "1.69%",
-    "uptimeYear": "1.69%",
-    "time": 122,
-    "timeDay": 122,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "status": "up",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
+    "time": 153,
+    "timeDay": 153,
+    "timeWeek": 153,
+    "timeMonth": 153,
+    "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-02-06": 0
+      "2025-02-06": 65
     }
   }
 ]
