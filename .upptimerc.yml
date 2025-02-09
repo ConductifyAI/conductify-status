@@ -10,7 +10,7 @@ assignees:
 sites:
   - name: Conductify Studio
     url: https://studio.conductify.ai
-  - name: Conductify Studio API
+  - name: Conductify API
     url: https://api.conductify.ai/health/liveness
     __dangerous__body_down_if_text_missing: '"status":"ok"'  
 
@@ -21,8 +21,8 @@ status-website:
   # baseUrl: /conductify-status
   cname: status.conductify.ai
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Conductify Status Page
-  introTitle: Conductify A I Agents, We are new Workforce and Humanity Co Worker
+  name: Conductify Platform Status Page
+  introTitle: Conductify AI Agent Platform
   introMessage: Conductify AI is The No-Code Platform enables to create AI Agents capable of performing complex sequences of activities that previously only humans could do.
   navbar:
     - title: Status
