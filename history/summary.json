@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.87%",
-    "time": 867,
-    "timeDay": 249,
-    "timeWeek": 224,
+    "time": 862,
+    "timeDay": 203,
+    "timeWeek": 216,
     "timeMonth": 232,
-    "timeYear": 867,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2025-02-06": 20,
       "2025-02-04": 51,
@@ -34,16 +34,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.conductify.ai.ico",
     "slug": "conductify-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 190,
-    "timeWeek": 155,
-    "timeMonth": 159,
-    "timeYear": 159,
-    "dailyMinutesDown": {}
+    "uptime": "94.17%",
+    "uptimeDay": "38.67%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "94.17%",
+    "uptimeYear": "94.17%",
+    "time": 160,
+    "timeDay": 164,
+    "timeWeek": 161,
+    "timeMonth": 160,
+    "timeYear": 160,
+    "dailyMinutesDown": {
+      "2025-02-20": 47,
+      "2025-02-19": 836
+    }
   }
 ]
