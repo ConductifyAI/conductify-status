@@ -1,7 +1,7 @@
 url: https://api.conductify.ai/health/liveness
 status: up
 code: 200
-responseTime: 134
-lastUpdated: 2025-04-08T23:15:18.803Z
+responseTime: 125
+lastUpdated: 2025-04-09T23:15:07.081Z
 startTime: 2025-02-09T12:23:24.252Z
 generator: Upptime <https://github.com/upptime/upptime>
